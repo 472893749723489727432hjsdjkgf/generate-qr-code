@@ -17,4 +17,4 @@ def create_qr(url : str):
     print(f"✅ QR-код успешно создан!")
     return os.path.abspath(full_path)
 
-create_qr("https://google.com")
+
